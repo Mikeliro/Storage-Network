@@ -17,6 +17,12 @@
     "block.storagenetwork.inventory": "Inventário de Armazenamento",
     "block.storagenetwork.inventory.tooltip": "Acesso ao inventário sem uma grade de fabricação",
     
+    "block.storagenetwork.exchange": "Interface de Troca de Rede",
+    "block.storagenetwork.exchange.tooltip": "Ponto final da rede para conexões de inventário",
+
+    "block.storagenetwork.collector": "Interface de Coleta de Rede",
+    "block.storagenetwork.collector.tooltip": "Os itens inseridos entram na rede",
+    
     "item.storagenetwork.speed_upgrade": "Upgrade de Velocidade",
     "item.storagenetwork.operation_upgrade": "Operation de Operação",
     "item.storagenetwork.stack_upgrade": "Upgrade de Stack",
@@ -25,6 +31,9 @@
     "tooltip.storagenetwork.upgrade_1": "A atividade do cabo depende da quantidade de itens.",
     "tooltip.storagenetwork.upgrade_2": "Aumenta o tamanho da Stack de tarefas.",
     "tooltip.storagenetwork.upgrade_3": "Mantém uma quantidade específica de itens no estoque anexado (apenas no cabo de exportação).",
+
+    "item.storagenetwork.builder_remote": "Construtor de Rede",
+    "item.storagenetwork.builder_remote.tooltip": "Ligue-se a uma rede e a um bloco para construir",
 
     "item.storagenetwork.inventory_remote": "Dispodsitivo de Armazenamento Remoto",
     "item.storagenetwork.inventory_remote.tooltip": "Use no Núcleo da rede para acesso remoto ao inventário.",
